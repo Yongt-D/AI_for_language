@@ -1,0 +1,11 @@
+Observed environment for the corrected RTX-3090 reruns
+
+Python 3.10.20
+PyTorch 2.5.1
+CUDA runtime reported by PyTorch 12.1
+Transformers 5.9.0
+NumPy 1.26.4
+SciPy 1.15.3
+
+These are the versions observed in /home/dyt/miniforge3/envs/beoc. This file
+records provenance; it is not a complete cross-platform dependency lock.
